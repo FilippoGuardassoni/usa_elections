@@ -1,0 +1,511 @@
+﻿STATE;Alpha Code;YEAR;Electoral votes
+Alabama;AL;1980;9
+Alabama;AL;1984;9
+Alabama;AL;1988;9
+Alabama;AL;1992;9
+Alabama;AL;1996;9
+Alabama;AL;2000;9
+Alabama;AL;2004;9
+Alabama;AL;2008;9
+Alabama;AL;2012;9
+Alabama;AL;2016;9
+Alaska;AK;1980;3
+Alaska;AK;1984;3
+Alaska;AK;1988;3
+Alaska;AK;1992;3
+Alaska;AK;1996;3
+Alaska;AK;2000;3
+Alaska;AK;2004;3
+Alaska;AK;2008;3
+Alaska;AK;2012;3
+Alaska;AK;2016;3
+Arizona;AZ;1980;6
+Arizona;AZ;1984;7
+Arizona;AZ;1988;7
+Arizona;AZ;1992;8
+Arizona;AZ;1996;8
+Arizona;AZ;2000;8
+Arizona;AZ;2004;10
+Arizona;AZ;2008;10
+Arizona;AZ;2012;11
+Arizona;AZ;2016;11
+Arkansas;AR;1980;6
+Arkansas;AR;1984;6
+Arkansas;AR;1988;6
+Arkansas;AR;1992;6
+Arkansas;AR;1996;6
+Arkansas;AR;2000;6
+Arkansas;AR;2004;6
+Arkansas;AR;2008;6
+Arkansas;AR;2012;6
+Arkansas;AR;2016;6
+California;CA;1980;45
+California;CA;1984;47
+California;CA;1988;47
+California;CA;1992;54
+California;CA;1996;54
+California;CA;2000;54
+California;CA;2004;55
+California;CA;2008;55
+California;CA;2012;55
+California;CA;2016;55
+Colorado;CO;1980;7
+Colorado;CO;1984;8
+Colorado;CO;1988;8
+Colorado;CO;1992;8
+Colorado;CO;1996;8
+Colorado;CO;2000;8
+Colorado;CO;2004;9
+Colorado;CO;2008;9
+Colorado;CO;2012;9
+Colorado;CO;2016;9
+Connecticut;CT;1980;8
+Connecticut;CT;1984;8
+Connecticut;CT;1988;8
+Connecticut;CT;1992;8
+Connecticut;CT;1996;8
+Connecticut;CT;2000;8
+Connecticut;CT;2004;7
+Connecticut;CT;2008;7
+Connecticut;CT;2012;7
+Connecticut;CT;2016;7
+Delaware;DE;1980;3
+Delaware;DE;1984;3
+Delaware;DE;1988;3
+Delaware;DE;1992;3
+Delaware;DE;1996;3
+Delaware;DE;2000;3
+Delaware;DE;2004;3
+Delaware;DE;2008;3
+Delaware;DE;2012;3
+Delaware;DE;2016;3
+District of Columbia;DC;1980;3
+District of Columbia;DC;1984;3
+District of Columbia;DC;1988;3
+District of Columbia;DC;1992;3
+District of Columbia;DC;1996;3
+District of Columbia;DC;2000;3
+District of Columbia;DC;2004;3
+District of Columbia;DC;2008;3
+District of Columbia;DC;2012;3
+District of Columbia;DC;2016;3
+Florida;FL;1980;17
+Florida;FL;1984;21
+Florida;FL;1988;21
+Florida;FL;1992;25
+Florida;FL;1996;25
+Florida;FL;2000;25
+Florida;FL;2004;27
+Florida;FL;2008;27
+Florida;FL;2012;29
+Florida;FL;2016;29
+Georgia;GA;1980;12
+Georgia;GA;1984;12
+Georgia;GA;1988;12
+Georgia;GA;1992;13
+Georgia;GA;1996;13
+Georgia;GA;2000;13
+Georgia;GA;2004;15
+Georgia;GA;2008;15
+Georgia;GA;2012;16
+Georgia;GA;2016;16
+Hawaii;HI;1980;4
+Hawaii;HI;1984;4
+Hawaii;HI;1988;4
+Hawaii;HI;1992;4
+Hawaii;HI;1996;4
+Hawaii;HI;2000;4
+Hawaii;HI;2004;4
+Hawaii;HI;2008;4
+Hawaii;HI;2012;4
+Hawaii;HI;2016;4
+Idaho;ID;1980;4
+Idaho;ID;1984;4
+Idaho;ID;1988;4
+Idaho;ID;1992;4
+Idaho;ID;1996;4
+Idaho;ID;2000;4
+Idaho;ID;2004;4
+Idaho;ID;2008;4
+Idaho;ID;2012;4
+Idaho;ID;2016;4
+Illinois;IL;1980;26
+Illinois;IL;1984;24
+Illinois;IL;1988;24
+Illinois;IL;1992;22
+Illinois;IL;1996;22
+Illinois;IL;2000;22
+Illinois;IL;2004;21
+Illinois;IL;2008;21
+Illinois;IL;2012;20
+Illinois;IL;2016;20
+Indiana;IN;1980;13
+Indiana;IN;1984;12
+Indiana;IN;1988;12
+Indiana;IN;1992;12
+Indiana;IN;1996;12
+Indiana;IN;2000;12
+Indiana;IN;2004;11
+Indiana;IN;2008;11
+Indiana;IN;2012;11
+Indiana;IN;2016;11
+Iowa;IA;1980;8
+Iowa;IA;1984;8
+Iowa;IA;1988;8
+Iowa;IA;1992;7
+Iowa;IA;1996;7
+Iowa;IA;2000;7
+Iowa;IA;2004;7
+Iowa;IA;2008;7
+Iowa;IA;2012;6
+Iowa;IA;2016;6
+Kansas;KS;1980;7
+Kansas;KS;1984;7
+Kansas;KS;1988;7
+Kansas;KS;1992;6
+Kansas;KS;1996;6
+Kansas;KS;2000;6
+Kansas;KS;2004;6
+Kansas;KS;2008;6
+Kansas;KS;2012;6
+Kansas;KS;2016;6
+Kentucky;KY;1980;9
+Kentucky;KY;1984;9
+Kentucky;KY;1988;9
+Kentucky;KY;1992;8
+Kentucky;KY;1996;8
+Kentucky;KY;2000;8
+Kentucky;KY;2004;8
+Kentucky;KY;2008;8
+Kentucky;KY;2012;8
+Kentucky;KY;2016;8
+Louisiana;LA;1980;10
+Louisiana;LA;1984;10
+Louisiana;LA;1988;10
+Louisiana;LA;1992;9
+Louisiana;LA;1996;9
+Louisiana;LA;2000;9
+Louisiana;LA;2004;9
+Louisiana;LA;2008;9
+Louisiana;LA;2012;8
+Louisiana;LA;2016;8
+Maine;ME;1980;4
+Maine;ME;1984;4
+Maine;ME;1988;4
+Maine;ME;1992;4
+Maine;ME;1996;4
+Maine;ME;2000;4
+Maine;ME;2004;4
+Maine;ME;2008;4
+Maine;ME;2012;4
+Maine;ME;2016;4
+Maryland;MD;1980;10
+Maryland;MD;1984;10
+Maryland;MD;1988;10
+Maryland;MD;1992;10
+Maryland;MD;1996;10
+Maryland;MD;2000;10
+Maryland;MD;2004;10
+Maryland;MD;2008;10
+Maryland;MD;2012;10
+Maryland;MD;2016;10
+Massachusetts;MA;1980;14
+Massachusetts;MA;1984;13
+Massachusetts;MA;1988;13
+Massachusetts;MA;1992;12
+Massachusetts;MA;1996;12
+Massachusetts;MA;2000;12
+Massachusetts;MA;2004;12
+Massachusetts;MA;2008;12
+Massachusetts;MA;2012;11
+Massachusetts;MA;2016;11
+Michigan;MI;1980;21
+Michigan;MI;1984;20
+Michigan;MI;1988;20
+Michigan;MI;1992;18
+Michigan;MI;1996;18
+Michigan;MI;2000;18
+Michigan;MI;2004;17
+Michigan;MI;2008;17
+Michigan;MI;2012;16
+Michigan;MI;2016;16
+Minnesota;MN;1980;10
+Minnesota;MN;1984;10
+Minnesota;MN;1988;10
+Minnesota;MN;1992;10
+Minnesota;MN;1996;10
+Minnesota;MN;2000;10
+Minnesota;MN;2004;10
+Minnesota;MN;2008;10
+Minnesota;MN;2012;10
+Minnesota;MN;2016;10
+Mississippi;MS;1980;7
+Mississippi;MS;1984;7
+Mississippi;MS;1988;7
+Mississippi;MS;1992;7
+Mississippi;MS;1996;7
+Mississippi;MS;2000;7
+Mississippi;MS;2004;6
+Mississippi;MS;2008;6
+Mississippi;MS;2012;6
+Mississippi;MS;2016;6
+Missouri;MO;1980;12
+Missouri;MO;1984;11
+Missouri;MO;1988;11
+Missouri;MO;1992;11
+Missouri;MO;1996;11
+Missouri;MO;2000;11
+Missouri;MO;2004;11
+Missouri;MO;2008;11
+Missouri;MO;2012;10
+Missouri;MO;2016;10
+Montana;MT;1980;4
+Montana;MT;1984;4
+Montana;MT;1988;4
+Montana;MT;1992;3
+Montana;MT;1996;3
+Montana;MT;2000;3
+Montana;MT;2004;3
+Montana;MT;2008;3
+Montana;MT;2012;3
+Montana;MT;2016;3
+Nebraska;NE;1980;5
+Nebraska;NE;1984;5
+Nebraska;NE;1988;5
+Nebraska;NE;1992;5
+Nebraska;NE;1996;5
+Nebraska;NE;2000;5
+Nebraska;NE;2004;5
+Nebraska;NE;2008;5
+Nebraska;NE;2012;5
+Nebraska;NE;2016;5
+Nevada;NV;1980;3
+Nevada;NV;1984;4
+Nevada;NV;1988;4
+Nevada;NV;1992;4
+Nevada;NV;1996;4
+Nevada;NV;2000;4
+Nevada;NV;2004;5
+Nevada;NV;2008;5
+Nevada;NV;2012;6
+Nevada;NV;2016;6
+New Hampshire;NH;1980;4
+New Hampshire;NH;1984;4
+New Hampshire;NH;1988;4
+New Hampshire;NH;1992;4
+New Hampshire;NH;1996;4
+New Hampshire;NH;2000;4
+New Hampshire;NH;2004;4
+New Hampshire;NH;2008;4
+New Hampshire;NH;2012;4
+New Hampshire;NH;2016;4
+New Jersey;NJ;1980;17
+New Jersey;NJ;1984;16
+New Jersey;NJ;1988;16
+New Jersey;NJ;1992;15
+New Jersey;NJ;1996;15
+New Jersey;NJ;2000;15
+New Jersey;NJ;2004;15
+New Jersey;NJ;2008;15
+New Jersey;NJ;2012;14
+New Jersey;NJ;2016;14
+New Mexico;NM;1980;4
+New Mexico;NM;1984;5
+New Mexico;NM;1988;5
+New Mexico;NM;1992;5
+New Mexico;NM;1996;5
+New Mexico;NM;2000;5
+New Mexico;NM;2004;5
+New Mexico;NM;2008;5
+New Mexico;NM;2012;5
+New Mexico;NM;2016;5
+New York;NY;1980;41
+New York;NY;1984;36
+New York;NY;1988;36
+New York;NY;1992;33
+New York;NY;1996;33
+New York;NY;2000;33
+New York;NY;2004;31
+New York;NY;2008;31
+New York;NY;2012;29
+New York;NY;2016;29
+North Carolina;NC;1980;13
+North Carolina;NC;1984;13
+North Carolina;NC;1988;13
+North Carolina;NC;1992;14
+North Carolina;NC;1996;14
+North Carolina;NC;2000;14
+North Carolina;NC;2004;15
+North Carolina;NC;2008;15
+North Carolina;NC;2012;15
+North Carolina;NC;2016;15
+North Dakota;ND;1980;3
+North Dakota;ND;1984;3
+North Dakota;ND;1988;3
+North Dakota;ND;1992;3
+North Dakota;ND;1996;3
+North Dakota;ND;2000;3
+North Dakota;ND;2004;3
+North Dakota;ND;2008;3
+North Dakota;ND;2012;3
+North Dakota;ND;2016;3
+Ohio;OH;1980;25
+Ohio;OH;1984;23
+Ohio;OH;1988;23
+Ohio;OH;1992;21
+Ohio;OH;1996;21
+Ohio;OH;2000;21
+Ohio;OH;2004;20
+Ohio;OH;2008;20
+Ohio;OH;2012;18
+Ohio;OH;2016;18
+Oklahoma;OK;1980;8
+Oklahoma;OK;1984;8
+Oklahoma;OK;1988;8
+Oklahoma;OK;1992;8
+Oklahoma;OK;1996;8
+Oklahoma;OK;2000;8
+Oklahoma;OK;2004;7
+Oklahoma;OK;2008;7
+Oklahoma;OK;2012;7
+Oklahoma;OK;2016;7
+Oregon;OR;1980;6
+Oregon;OR;1984;7
+Oregon;OR;1988;7
+Oregon;OR;1992;7
+Oregon;OR;1996;7
+Oregon;OR;2000;7
+Oregon;OR;2004;7
+Oregon;OR;2008;7
+Oregon;OR;2012;7
+Oregon;OR;2016;7
+Pennsylvania;PA;1980;27
+Pennsylvania;PA;1984;25
+Pennsylvania;PA;1988;25
+Pennsylvania;PA;1992;23
+Pennsylvania;PA;1996;23
+Pennsylvania;PA;2000;23
+Pennsylvania;PA;2004;21
+Pennsylvania;PA;2008;21
+Pennsylvania;PA;2012;20
+Pennsylvania;PA;2016;20
+Rhode Island;RI;1980;4
+Rhode Island;RI;1984;4
+Rhode Island;RI;1988;4
+Rhode Island;RI;1992;4
+Rhode Island;RI;1996;4
+Rhode Island;RI;2000;4
+Rhode Island;RI;2004;4
+Rhode Island;RI;2008;4
+Rhode Island;RI;2012;4
+Rhode Island;RI;2016;4
+South Carolina;SC;1980;8
+South Carolina;SC;1984;8
+South Carolina;SC;1988;8
+South Carolina;SC;1992;8
+South Carolina;SC;1996;8
+South Carolina;SC;2000;8
+South Carolina;SC;2004;8
+South Carolina;SC;2008;8
+South Carolina;SC;2012;9
+South Carolina;SC;2016;9
+South Dakota;SD;1980;4
+South Dakota;SD;1984;3
+South Dakota;SD;1988;3
+South Dakota;SD;1992;3
+South Dakota;SD;1996;3
+South Dakota;SD;2000;3
+South Dakota;SD;2004;3
+South Dakota;SD;2008;3
+South Dakota;SD;2012;3
+South Dakota;SD;2016;3
+Tennessee;TN;1980;10
+Tennessee;TN;1984;11
+Tennessee;TN;1988;11
+Tennessee;TN;1992;11
+Tennessee;TN;1996;11
+Tennessee;TN;2000;11
+Tennessee;TN;2004;11
+Tennessee;TN;2008;11
+Tennessee;TN;2012;11
+Tennessee;TN;2016;11
+Texas;TX;1980;26
+Texas;TX;1984;29
+Texas;TX;1988;29
+Texas;TX;1992;32
+Texas;TX;1996;32
+Texas;TX;2000;32
+Texas;TX;2004;34
+Texas;TX;2008;34
+Texas;TX;2012;38
+Texas;TX;2016;38
+Utah;UT;1980;4
+Utah;UT;1984;5
+Utah;UT;1988;5
+Utah;UT;1992;5
+Utah;UT;1996;5
+Utah;UT;2000;5
+Utah;UT;2004;5
+Utah;UT;2008;5
+Utah;UT;2012;6
+Utah;UT;2016;6
+Vermont;VT;1980;3
+Vermont;VT;1984;3
+Vermont;VT;1988;3
+Vermont;VT;1992;3
+Vermont;VT;1996;3
+Vermont;VT;2000;3
+Vermont;VT;2004;3
+Vermont;VT;2008;3
+Vermont;VT;2012;3
+Vermont;VT;2016;3
+Virginia;VA;1980;12
+Virginia;VA;1984;12
+Virginia;VA;1988;12
+Virginia;VA;1992;13
+Virginia;VA;1996;13
+Virginia;VA;2000;13
+Virginia;VA;2004;13
+Virginia;VA;2008;13
+Virginia;VA;2012;13
+Virginia;VA;2016;13
+Washington;WA;1980;9
+Washington;WA;1984;10
+Washington;WA;1988;10
+Washington;WA;1992;11
+Washington;WA;1996;11
+Washington;WA;2000;11
+Washington;WA;2004;11
+Washington;WA;2008;11
+Washington;WA;2012;12
+Washington;WA;2016;12
+West Virginia;WV;1980;6
+West Virginia;WV;1984;6
+West Virginia;WV;1988;6
+West Virginia;WV;1992;5
+West Virginia;WV;1996;5
+West Virginia;WV;2000;5
+West Virginia;WV;2004;5
+West Virginia;WV;2008;5
+West Virginia;WV;2012;5
+West Virginia;WV;2016;5
+Wisconsin;WI;1980;11
+Wisconsin;WI;1984;11
+Wisconsin;WI;1988;11
+Wisconsin;WI;1992;11
+Wisconsin;WI;1996;11
+Wisconsin;WI;2000;11
+Wisconsin;WI;2004;10
+Wisconsin;WI;2008;10
+Wisconsin;WI;2012;10
+Wisconsin;WI;2016;10
+Wyoming;WY;1980;3
+Wyoming;WY;1984;3
+Wyoming;WY;1988;3
+Wyoming;WY;1992;3
+Wyoming;WY;1996;3
+Wyoming;WY;2000;3
+Wyoming;WY;2004;3
+Wyoming;WY;2008;3
+Wyoming;WY;2012;3
+Wyoming;WY;2016;3

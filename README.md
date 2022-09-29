@@ -1,1 +1,3 @@
-# usa_elections
+## Analyzing and Predicting US Elections
+
+In this paper, we analyzed US presidential elections focusing on economic and incumbency variables. We used the equations in Fair’s research (2009) as the base of our analyses. The equations are updated incorporating new data available as of December 2020, additional variables are introduced, and different model approaches are compared in order to use a reliable method to predict US elections as well as to make inferences about economic and political issues. Double-Selection Lasso is individuated as the best model approach among selected others for its reduced errors characteristic. Lastly, its capacity to provide uniform causal inferences increases the statistical power of our analysis.

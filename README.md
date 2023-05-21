@@ -63,10 +63,35 @@ Every dataset was gathered from official sources of the US government and other 
 │   |   |   |   ├── Quarterly Real GDP 2017-2020.csv
 │   |   ├── GDP Dataset from orginal paper.txt
 │   ├── US Population
+│   |   ├── State Intercensal Dataset 1970-1980
+│   |   |   ├── e7080sta.txt
+│   |   |   ├── pe-19.csv
+│   |   |   ├── population 1970-1980.xlsx
+│   |   ├── State Intercensal Dataset 1980-1990
+│   |   |   ├── State Population 1980-1990.pdf
+│   |   |   ├── population 1980-1990.xlsx
+│   |   ├── State Intercensal Dataset 1990-2000
+│   |   |   ├── Population 1990-2000.xlsx
+│   |   |   ├── State Population 1990-1999.pdf
+│   |   ├── State Intercensal Dataset 2000-2010
+│   |   |   ├── 2000-2010-intercensal-estimates-methodology.pdf
+│   |   |   ├── Population 2000-2010.xlsx
+│   |   |   ├── st-est00int-alldata.csv
+│   |   |   ├── st-est00int-alldata.pdf
+│   |   ├── State Intercensal Dataset 2010-2019
+│   |   |   ├── Population 2010-2019.xlsx
+│   |   |   ├── SCPRC-EST2019-18+POP-RES.csv
+│   |   |   ├── nst-est2019-alldata.pdf
+│   |   |   ├── sc-est2019-alldata6.csv
+│   |   |   ├── sc-est2019-alldata6.pdf
 │   ├── Vote by US State/dataverse_files
+│   |   ├── panelData-voteByState-1976-2016.csv
+│   |   ├── panelData-voteByState-1976-2016.xlsm
 │   ├── Additional Variables.csv
 │   ├── electoral votes 1980-2016.csv
 │   ├── variables.csv
+├── stata code
+│   ├── Empirical_Project_Final.do
 ├── report
 │   ├── uk_house _market_report.pdf
 ├── img
